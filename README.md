@@ -6,7 +6,7 @@
 [Mathematics for Data Science](https://www.udemy.com/course/mathematics-for-data-science-101/?referralCode=2671E9DC383908986EB0)
 
 🌿If you want to learn Version Control with Git:
-[Git -The Time Stone](https://www.udemy.com/course/git-the-time-stone/?referralCode=AB2A684A4AF1339679A0)
+[Git - The Time Stone](https://www.udemy.com/course/git-the-time-stone/?referralCode=AB2A684A4AF1339679A0)
 
 I’m currently working on Applying ML and DL techniques to real-world mechanical engineering problems.<br>I’m looking to collaborate on Machine learning, deep learning, and data‑driven engineering projects.<br>I’m looking for help with Bridging advanced ML concepts with practical mechanical engineering use‑cases.<br>I’m currently learning Cutting‑edge methods in data science, machine learning, and deep learning.<br>Ask me about Mathematics of Data Science, Python programming, ML/DL theory, and engineering insights.<br>A Fun Fact is that I’m a mechanical engineer who fell in love with the mathematics behind machine learning.
 
