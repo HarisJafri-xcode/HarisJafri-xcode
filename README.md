@@ -1,6 +1,7 @@
 # 💫 About Me:
 📘 If you want to learn Machine Learning without coding:
 https://www.udemy.com/course/infographics-machine-learning/
+
 📐 If you want to learn Mathematics for Data Science:
 https://www.udemy.com/course/mathematics-for-data-science-101/
 
