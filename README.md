@@ -1,14 +1,17 @@
 # 💫 About Me:
-📘 If you want to learn Machine Learning without coding:
-[Infographics Machine Learning](https://www.udemy.com/course/infographics-machine-learning/?referralCode=D1B98E16F24355EF06D5)
+📘 If you want to learn Theory of Machine and Deep Learning:
+[Theory of Machine & Deep Learning](https://www.youtube.com/playlist?list=PLUBogvZxn7Ys)
 
 📐 If you want to learn Mathematics for Data Science:
-[Mathematics for Data Science](https://www.udemy.com/course/mathematics-for-data-science-101/?referralCode=2671E9DC383908986EB0)
+[Mathematics for Data Science](https://www.youtube.com/playlist?list=PLA3gd3J2dgRA)
 
 🌿If you want to learn Version Control with Git:
-[Git - The Time Stone](https://www.udemy.com/course/git-the-time-stone/?referralCode=AB2A684A4AF1339679A0)
+[Git Version Control System](https://www.youtube.com/playlist?list=PLW3ibyU9wNk4)
 
-I’m currently focused on learning and teaching Data Science, Machine Learning, Deep Learning, and HVAC theory.<br>
+🌡️ If you want to learn Thermodynamics:
+[Thermodynamics](https://www.youtube.com/playlist?list=PLPUV0Mn7U3Uw)
+
+I’m currently focused on learning and teaching Data Science, Machine Learning, Deep Learning, Thermodynamics and Heat Transfer.<br>
 I’m looking to collaborate on projects that combine data‑driven methods with engineering‑focused applications.<br>
 I’m looking for help with developing intuitive explanations and practical workflows for ML/DL concepts used in engineering systems.<br>
 I’m currently learning advanced methods in machine learning, deep learning architectures, and data‑centric engineering strategies.<br>
